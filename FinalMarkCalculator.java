@@ -1,3 +1,4 @@
+//This line will import the class Scanner to my program
 import java.util.Scanner;
 
 /**
